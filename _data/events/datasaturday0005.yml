@@ -26,7 +26,7 @@ sponsors:
     image: ..\assets\img\events\0005\Pure.png
     height: 100
     
-speakerlisturl: https://sessionize.com/data-saturday-redmond-2021
+speakerlisturl: "https://sessionize.com/api/v2/6l2mfo9t/view/Speakers"
 callforspeakers:  False
 organizers:
   - name: Tho Le & Harry Chandra (Redmond SQL User Group Leadership Team)
